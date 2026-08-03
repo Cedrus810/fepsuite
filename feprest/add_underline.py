@@ -84,7 +84,7 @@ def main(args):
     
     # list atoms that need to be perturbed
     for r in rest_residues:
-        for a in res.atoms:
+        for a in r.atoms:
             rest_atoms.add(a.index)
 
     with open(writeto, "w") as ofh:
