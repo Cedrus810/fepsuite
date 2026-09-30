@@ -85,8 +85,8 @@ feprest/fepgen/cmdline.h is licensed under BSD 3-clause. See the file for detail
 
 # Authors
 
-* v2 rewrite (`abfe_v2/`, `feprest_v2/`): [Cedrus810](https://github.com/Cedrus810)
-* original v1 pipelines: Shun Sakuraba (National Institutes for Quantum Science and Technology, Japan)
+* v2 rewrite, the abfe_v2 and feprest_v2 pipelines: [Cedrus810](https://github.com/Cedrus810)
+* original v1 pipelines, abfe and feprest: Shun Sakuraba (National Institutes for Quantum Science and Technology, Japan)
 
 # Acknowledgements
 
