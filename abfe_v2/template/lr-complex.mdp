@@ -1,0 +1,3 @@
+; FEP-ABFE v2 phase addenda — lr-complex
+vdwtype = PME
+nstenergy = 1000

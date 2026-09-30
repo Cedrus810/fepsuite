@@ -1,0 +1,7 @@
+; FEP-ABFE v2 phase addenda — lr-lig
+; long-range correction calculation
+
+vdwtype = PME
+nstenergy = 1000
+
+
